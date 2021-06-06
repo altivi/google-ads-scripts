@@ -1,0 +1,36 @@
+name: Google Ads Scripts
+
+status: active
+
+ownership:
+  owner: ellen
+  maintainers:
+    - ellen
+
+public-info:
+  reach: general-client-tool
+  release-date: 2012-01-01
+  tags:
+    - audiences
+    - bidding
+    - managing
+    - monitoring
+  departments:
+    - Biddable/Search
+  platforms:
+    - google-ads
+  documentation:
+    wiki:
+      - https://www.brainlabsdigital.com/marketing-library/category/google-ads-scripts/
+    cards:
+      -
+    spreadsheets:
+      -
+    docs:
+      -
+
+tech-info:
+  trackable: false
+
+deployments:
+  - type: user-managed-google-ads-script
